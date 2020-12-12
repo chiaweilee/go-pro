@@ -20,11 +20,12 @@
     "rax-view": "^2.0.0"
   },
   "devDependencies": {
-    "rax-app": "^3.0.0",
     "@iceworks/spec": "^1.0.0",
     "@types/rax": "^1.0.0",
+    "babel-loader": "^8.2.2",
     "eslint": "^6.8.0",
     "prettier": "^2.1.2",
+    "rax-app": "^3.0.0",
     "stylelint": "^13.7.2"
   },
   "private": true,
