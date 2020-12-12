@@ -1,5 +1,5 @@
 // https://github.com/KonradIT/goprowifihack/blob/master/HERO7/HERO7-Commands.md#video
-export const setting = {
+export const setting7 = {
   Resolutions: {
     '4K': [2, 1],
     '4K 4:3': [2, 18],
